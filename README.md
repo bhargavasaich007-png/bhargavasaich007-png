@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Bhargava Sai Chiguripati 👋
 
-<!--
-**bhargavasaich007-png/bhargavasaich007-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Analytics — University of Portsmouth  
+📍 Portsmouth, UK  
+💻 Python | Machine Learning | Data Science  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🛒 BigMart Sales Prediction — XGBoost, GridSearchCV
+- 🧠 Depression Analytics — Classification, Clustering, Association Rules
+- 🎬 IMDB Sentiment Analysis — NLP, BERT, LDA
+- 🏥 Healthcare Stroke Prediction — ML Classification & Clustering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- GitHub: [bhargavasaich007-png](https://github.com/bhargavasaich007-png)
